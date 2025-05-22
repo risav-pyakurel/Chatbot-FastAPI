@@ -20,7 +20,7 @@ A modern, interactive AI chatbot platform built with **FastAPI** (backend) and *
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/yourusername/langgraph-chatbot.git
+git clone https://github.com/risav-pyakurel/Chatbot-FastAPI.git
 cd langgraph-chatbot
 ```
 
