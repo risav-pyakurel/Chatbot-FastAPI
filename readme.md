@@ -4,7 +4,7 @@ A modern, interactive AI chatbot platform built with **FastAPI** (backend) and *
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Multiple LLM Providers:** Seamlessly switch between Groq and OpenAI models.
 - **Custom System Prompts:** Define your agent's personality and behavior.
@@ -15,7 +15,7 @@ A modern, interactive AI chatbot platform built with **FastAPI** (backend) and *
 
 ---
 
-## 🚀 Quickstart
+##  Quickstart
 
 ### 1. Clone the Repository
 
@@ -55,7 +55,7 @@ streamlit run frontend.py
 
 ---
 
-## 📖 Accessing Swagger UI Docs
+## Accessing Swagger UI Docs
 
 Once the backend is running, open your browser and go to:
 
@@ -81,14 +81,14 @@ This will open the interactive **Swagger UI** for your FastAPI backend, where yo
 
 ---
 
-## 🧩 Supported Models
+##  Supported Models
 
 - **Groq:** `llama-3.3-70b-versatile`, `mixtral-8x7b-32768`
 - **OpenAI:** `gpt-4o-mini`
 
 ---
 
-## 📝 Usage
+##  Usage
 
 1. Define your agent's system prompt in the UI.
 2. Select your preferred provider and model.
@@ -97,9 +97,5 @@ This will open the interactive **Swagger UI** for your FastAPI backend, where yo
 
 ---
 
-## 📄 License
 
-MIT License
-
----
 
